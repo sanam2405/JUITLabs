@@ -8,14 +8,14 @@ Documentation of all my undergraduate lab work at Information Technology, Jadavp
 
 |Semester | Lab   |  
 |:-----:|:-----:|
-| 2.1 | [Object Oriented Programming]() |
-| 2.1 | [Database Management Systems]() |
-| 2.1 | [Assembly and Machine Language]()|
-| 2.2 | [Object Oriented Systems]() |
-| 2.2 | [Software Engineering]() |
+| 2.1 | [Object Oriented Programming](https://github.com/sanam2405/OOPLabs) |
+| 2.1 | [Database Management Systems](https://github.com/sanam2405/DBMSLabs) |
+| 2.1 | [Assembly and Machine Language](https://github.com/sanam2405/ASMLabs)|
+| 2.2 | [Object Oriented Systems](https://github.com/sanam2405/OOSLabs) |
+| 2.2 | [Software Engineering](https://github.com/sanam2405/SoftwareEngineeringLabs) |
 | 2.2 | [Computer Networks]() |
-| 3.1 | [Operating System]() |
-| 3.1 | [Artificial Intelligence]() |
-| 3.2 | [Web Technologies II]() |
-| 3.2 | [Multimedia]() |
-| 4.1 | [Machine Learning]() |
+| 3.1 | [Operating System](https://github.com/sanam2405/OperatingSystemLabs) |
+| 3.1 | [Artificial Intelligence](https://github.com/sanam2405/ArtificialIntelligenceLabs) |
+| 3.2 | [Web Technologies II](https://github.com/sanam2405/WebTechnologyLabs) |
+| 3.2 | [Multimedia](https://github.com/sanam2405/MultimediaLabs) |
+| 4.1 | [Machine Learning](https://github.com/sanam2405/MachineLearningLabs) |

@@ -13,7 +13,7 @@ Documentation of all my undergraduate lab work at Information Technology, Jadavp
 | 2.1 | [Assembly and Machine Language](https://github.com/sanam2405/ASMLabs)|
 | 2.2 | [Object Oriented Systems](https://github.com/sanam2405/OOSLabs) |
 | 2.2 | [Software Engineering](https://github.com/sanam2405/SoftwareEngineeringLabs) |
-| 2.2 | [Computer Networks]() |
+| 2.2 | [Computer Networks](https://github.com/sanam2405/ComputerNetworksLabs) |
 | 3.1 | [Operating System](https://github.com/sanam2405/OperatingSystemLabs) |
 | 3.1 | [Artificial Intelligence](https://github.com/sanam2405/ArtificialIntelligenceLabs) |
 | 3.2 | [Web Technologies II](https://github.com/sanam2405/WebTechnologyLabs) |

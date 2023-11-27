@@ -19,3 +19,4 @@ Documentation of all my undergraduate lab work at Information Technology, Jadavp
 | 3.2 | [Web Technologies II](https://github.com/sanam2405/WebTechnologyLabs) |
 | 3.2 | [Multimedia](https://github.com/sanam2405/MultimediaLabs) |
 | 4.1 | [Machine Learning](https://github.com/sanam2405/MachineLearningLabs) |
+| 4.1 | [Seminar](https://github.com/sanam2405/Seminar) |

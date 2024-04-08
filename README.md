@@ -6,6 +6,7 @@ Documentation of all my undergraduate lab work at Information Technology, Jadavp
 
 | Semester |                                        Lab                                         |
 | :------: | :--------------------------------------------------------------------------------: |
+|   1.2    |     [Engineering Drawing](https://github.com/sanam2405/EngineeringDrawingLabs)     |
 |   2.1    |        [Object Oriented Programming](https://github.com/sanam2405/OOPLabs)         |
 |   2.1    |        [Database Management Systems](https://github.com/sanam2405/DBMSLabs)        |
 |   2.1    |       [Assembly and Machine Language](https://github.com/sanam2405/ASMLabs)        |

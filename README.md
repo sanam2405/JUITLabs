@@ -1,6 +1,6 @@
 # JUITLabs
 
-![](/public/group.jpeg)
+![](/public/groupcover.png)
 
 ## `Manas Pratim Biswas`
 
